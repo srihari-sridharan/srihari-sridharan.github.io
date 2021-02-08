@@ -2,7 +2,7 @@ title: Srihari-sridharan.GitHub.io
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
